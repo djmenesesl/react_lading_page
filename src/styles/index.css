@@ -10,3 +10,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.card {
+    width: 22.5%;
+    min-width: 18rem;
+    max-width: 30rem;
+}
